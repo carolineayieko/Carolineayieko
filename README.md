@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on data science projects(machine learning projects)
 - 🤔 I’m looking for help with getting entry level roles in data science/data analyst
 - 💬 Ask me about data science, machine learning and use of ML in Civil engineering
-- 📫 How to reach me: [@Carolineayieko](https://twitter.com/CarolineAyieko)
+- 📫 How to reach me: [Twitter](https://twitter.com/CarolineAyieko), [Linkedin](https://www.linkedin.com/in/caroline-kemunto-ayieko/)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Mentorship for girls/women is close to my heart
 
