@@ -9,3 +9,8 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Mentorship for girls/women is close to my heart
 
+## Skills/ languages
+- Python
+- SQL
+- Machine learing
+- Data wrangling and data visualization using pandas, Seaborn and matplotlib
